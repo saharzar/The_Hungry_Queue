@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\OyunProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\StoveCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\StoveCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\BaseCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\BaseCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\CuttingCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\CuttingCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\OvenRecipeSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\OvenRecipeSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\CuttingRecipeSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\CuttingRecipeSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\ProgressBarUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\ProgressBarUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\PizzaAssemblyCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\PizzaAssemblyCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\PizzaRecipeSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\PizzaRecipeSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\SelectedCounterVisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\SelectedCounterVisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\KitchenObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\KitchenObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\CuttingCounterVIsual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\CuttingCounterVIsual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\TrashCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\TrashCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\LookAtCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\LookAtCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\ContainerCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\ContainerCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\ClearCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\ClearCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\PlayerAnimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\PlayerAnimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuttingCounter.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\CuttingCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\CuttingCounter.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\CuttingCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\CuttingCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:51:38.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoveCounter.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\StoveCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\StoveCounter.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\StoveCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\StoveCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:15:54.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OvenRecipeSO.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\OvenRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\OvenRecipeSO.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\OvenRecipeSO.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\OvenRecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:20:12.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseCounter.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\BaseCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\BaseCounter.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\BaseCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\BaseCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:45:49.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CuttingRecipeSO.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\CuttingRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\CuttingRecipeSO.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\CuttingRecipeSO.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\CuttingRecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:20:23.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgressBarUI.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\ProgressBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\ProgressBarUI.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\ProgressBarUI.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\ProgressBarUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:04:51.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PizzaRecipeSO.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\PizzaRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\PizzaRecipeSO.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\PizzaRecipeSO.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\PizzaRecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:53:26.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PizzaAssemblyCounter.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\PizzaAssemblyCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\PizzaAssemblyCounter.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\PizzaAssemblyCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\PizzaAssemblyCounter.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAQwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:53:07.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CuttingCounterVIsual.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\CuttingCounterVIsual.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\CuttingCounterVIsual.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\CuttingCounterVIsual.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\CuttingCounterVIsual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:51:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContainerCounter.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\ContainerCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\ContainerCounter.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\ContainerCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\ContainerCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:32:52.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KitchenObject.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\KitchenObject.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\KitchenObject.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\KitchenObject.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\KitchenObject.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:35:42.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAgwNIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:12:16.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectedCounterVisual.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\SelectedCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\SelectedCounterVisual.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\SelectedCounterVisual.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\SelectedCounterVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:39:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LookAtCamera.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\LookAtCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\LookAtCamera.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\LookAtCamera.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\LookAtCamera.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:33:17.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrashCounter.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\TrashCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\TrashCounter.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\TrashCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\TrashCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:02:25.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClearCounter.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\ClearCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\ClearCounter.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\ClearCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\ClearCounter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:00:11.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerAnimator.cs",
+              "DocumentMoniker": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\PlayerAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\PlayerAnimator.cs",
+              "ToolTip": "D:\\Games\\OyunProject\\Assets\\_Assets\\Scripts\\PlayerAnimator.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\PlayerAnimator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:25:09.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

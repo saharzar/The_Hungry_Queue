@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1165834604cdce4e8085adc49210e23, type: 3}
+  m_Name: Dough-FlatDough
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: 882b211af802c814cb0db1fb489265b7, type: 2}
+  output: {fileID: 11400000, guid: 881ab2d364790c548a69dd7c9844b7a7, type: 2}
+  cuttingProgressMax: 5
