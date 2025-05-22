@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0BAFF0A5-09D9-BF27-387A-EEC6FD9A2C2F}</ProjectGuid>
+    <ProjectGuid>{C785CFBF-385F-DF0E-C06A-74AF42E6F6A8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -55,6 +55,7 @@
     <UnityVersion>6000.0.31f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.31f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.31f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.31f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
@@ -66,6 +67,7 @@
     <Compile Include="Assets\_Assets\Scripts\TrashCounter.cs" />
     <Compile Include="Assets\Settings\PlayerInputActions.cs" />
     <Compile Include="Assets\_Assets\Scripts\CuttingRecipeSO.cs" />
+    <Compile Include="Assets\_Assets\Scripts\Customer.cs" />
     <Compile Include="Assets\_Assets\Scripts\KitchenObject.cs" />
     <Compile Include="Assets\_Assets\Scripts\PizzaAssemblyCounter.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
@@ -74,6 +76,7 @@
     <Compile Include="Assets\_Assets\Scripts\Player.cs" />
     <Compile Include="Assets\_Assets\Scripts\GameInput.cs" />
     <Compile Include="Assets\_Assets\Scripts\CuttingCounterVIsual.cs" />
+    <Compile Include="Assets\_Assets\Scripts\CustomerSpawner.cs" />
     <Compile Include="Assets\_Assets\Scripts\PlayerAnimator.cs" />
     <Compile Include="Assets\_Assets\Scripts\StoveCounter.cs" />
     <Compile Include="Assets\_Assets\Scripts\BaseCounter.cs" />
@@ -1275,7 +1278,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="CodeMonkeyFree.csproj">
-      <Project>{6C4C0174-A2EF-6BBF-CF1D-9C56784DC8B0}</Project>
+      <Project>{97260EE1-FF16-C45D-85C7-F028BF807B7A}</Project>
       <Name>CodeMonkeyFree</Name>
     </ProjectReference>
   </ItemGroup>
