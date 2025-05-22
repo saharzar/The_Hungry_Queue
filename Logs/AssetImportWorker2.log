@@ -2082,3 +2082,1591 @@ Memory consumption went from 179.1 MB to 174.1 MB.
 Total: 12.560000 ms (FindLiveObjects: 0.690700 ms CreateObjectMapping: 1.172700 ms MarkObjects: 6.892200 ms  DeleteObjects: 3.801900 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.639 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.951 seconds
+Domain Reload Profiling: 1590ms
+	BeginReloadAssembly (177ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (395ms)
+		LoadAssemblies (302ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (181ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (161ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (952ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (775ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (108ms)
+			ProcessInitializeOnLoadAttributes (586ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 1.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (4.7 MB). Loaded Objects now: 7313.
+Memory consumption went from 179.1 MB to 174.4 MB.
+Total: 11.112100 ms (FindLiveObjects: 0.765800 ms CreateObjectMapping: 0.990600 ms MarkObjects: 6.223900 ms  DeleteObjects: 3.129500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 147.445022 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_window_closed_curtains_red.fbx
+  artifactKey: Guid(4eb1f6ab3f3f6844e911d9ab99f04e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_window_closed_curtains_red.fbx using Guid(4eb1f6ab3f3f6844e911d9ab99f04e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8affeb5cbfaec6347d5d350126d2ccfe') in 0.4973617 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.091031 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_window_closed.fbx
+  artifactKey: Guid(ed50c8e9dbeb5a24e9dfd84e074baad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_window_closed.fbx using Guid(ed50c8e9dbeb5a24e9dfd84e074baad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '74c0e13ab5f8d5234ac80afa02600379') in 0.0167409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019146 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_tiles_A.fbx
+  artifactKey: Guid(b538277a93c73ba4d9a0da9eb2292809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_tiles_A.fbx using Guid(b538277a93c73ba4d9a0da9eb2292809) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'be0768622e92bea3cc2fe55985b28d9f') in 0.0180849 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.475628 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_orderwindow.fbx
+  artifactKey: Guid(ad70b54e79154774e96cee44f95817ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_orderwindow.fbx using Guid(ad70b54e79154774e96cee44f95817ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27659458b5daa9a8f4d133089ef64f88') in 0.0138845 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039107 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_doorway.fbx
+  artifactKey: Guid(c66f85b461c81404c9babc9114086638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_doorway.fbx using Guid(c66f85b461c81404c9babc9114086638) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1c03dfc3b6d16ba81c4f385a943c9d0') in 0.0134098 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107885 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_decorated.fbx
+  artifactKey: Guid(6d1f6d318d8b8c549b2f34463c9da315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall_decorated.fbx using Guid(6d1f6d318d8b8c549b2f34463c9da315) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '40a20f538ee2ffb7a9e71c8469509cb7') in 0.0146607 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall.fbx
+  artifactKey: Guid(7cc92e8c5f5271345b3f1bd34c114923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/wall.fbx using Guid(7cc92e8c5f5271345b3f1bd34c114923) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '467403d9d43f9c1dd1a2495c764be98f') in 0.0122518 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.185802 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/towelrail.fbx
+  artifactKey: Guid(b40ef460ff3f9f84a9b1aee422b2aa5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/towelrail.fbx using Guid(b40ef460ff3f9f84a9b1aee422b2aa5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '47800a6db094aadd789a6a228f2b0b86') in 0.0131989 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.371749 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/table_round_B_tablecloth_red.fbx
+  artifactKey: Guid(2c814b6b1293ca841a21307aad789d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/table_round_B_tablecloth_red.fbx using Guid(2c814b6b1293ca841a21307aad789d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '76f1b10c390f64a2b2131318ff4725e5') in 0.0125522 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/table_round_B.fbx
+  artifactKey: Guid(e0deb8988c99d91408b1ea097a8555d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/table_round_B.fbx using Guid(e0deb8988c99d91408b1ea097a8555d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '42ac6b9634cf13180680c562dfedad38') in 0.0115591 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/table_round_A_small.fbx
+  artifactKey: Guid(140cf79c88dbaed4490661891aec9499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/table_round_A_small.fbx using Guid(140cf79c88dbaed4490661891aec9499) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6509d96adaea1780ed1897fdc14f0c12') in 0.0137306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036416 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/table_round_A.fbx
+  artifactKey: Guid(b8eec25b05b1c924d908a129059e2e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/table_round_A.fbx using Guid(b8eec25b05b1c924d908a129059e2e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a802d7cb6581cf11edd4ad6b84fd355') in 0.0160351 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.106144 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/stove_single.fbx
+  artifactKey: Guid(e025b2024fd2e3d4ba4597351e503f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/stove_single.fbx using Guid(e025b2024fd2e3d4ba4597351e503f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b256f2eb2cb369d3c6bd596839ad4982') in 0.0172803 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/stove_multi_countertop.fbx
+  artifactKey: Guid(660804631a2f07b4aac600e6dc5da598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/stove_multi_countertop.fbx using Guid(660804631a2f07b4aac600e6dc5da598) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a26c1aa1d939c4e487f27df76e930d6') in 0.0124018 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/stew_pot.fbx
+  artifactKey: Guid(aa2e0702dc3dcf048ac6b3d39c89ad6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/stew_pot.fbx using Guid(aa2e0702dc3dcf048ac6b3d39c89ad6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd65f783bd7f38f5c73cacb52862840ee') in 0.0133514 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.111479 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/spoon.fbx
+  artifactKey: Guid(9a25f979c0f61d04ca2114782f73abd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/spoon.fbx using Guid(9a25f979c0f61d04ca2114782f73abd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1acf9b0c4773afd75ab68f5a966af075') in 0.0168787 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/shelf_papertowel.fbx
+  artifactKey: Guid(1521210b4ccd20c49a32a126bbbb36e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/shelf_papertowel.fbx using Guid(1521210b4ccd20c49a32a126bbbb36e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1431d3b3ab5d51e3f5e280d3146e7466') in 0.0138079 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/plate_dirty.fbx
+  artifactKey: Guid(dfcfb65efca79204c87de9fe3de7d92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/plate_dirty.fbx using Guid(dfcfb65efca79204c87de9fe3de7d92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f882543ef56c5f684809183f5f605118') in 0.0141041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/plate_small.fbx
+  artifactKey: Guid(b685bf3950a246a45b79c01452f30391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/plate_small.fbx using Guid(b685bf3950a246a45b79c01452f30391) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9ae8819b4a21b0aaebdebc1f7ee04236') in 0.0171197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/pot_B_stew.fbx
+  artifactKey: Guid(be4f87441e9e4b04f93f128e189a9058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/pot_B_stew.fbx using Guid(be4f87441e9e4b04f93f128e189a9058) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c6583c8b90cd4980ef72ef7bbf7e748') in 0.0150776 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchentable_B_large.fbx
+  artifactKey: Guid(6cbf8d2e39c47344294d30faf6d7b050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchentable_B_large.fbx using Guid(6cbf8d2e39c47344294d30faf6d7b050) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dbc48dfcb8329f48677756d607e70325') in 0.0134833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/knife.fbx
+  artifactKey: Guid(96298cc6f84eaef4eb05e558105dcb5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/knife.fbx using Guid(96298cc6f84eaef4eb05e558105dcb5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '984500be1888822ea262d4e664aa6639') in 0.0201572 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchentable_A_large_decorated_B.fbx
+  artifactKey: Guid(4f907f543df1c594b865ccf419a28f8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchentable_A_large_decorated_B.fbx using Guid(4f907f543df1c594b865ccf419a28f8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94e16029d5e08355e0fe6377038b9526') in 0.0150442 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_B_styleB.fbx
+  artifactKey: Guid(d4cddbfa968691d4c85c14965ae3a37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_B_styleB.fbx using Guid(d4cddbfa968691d4c85c14965ae3a37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fac9685c46f089a91b5cb88fce2c48a5') in 0.0196306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_B_backsplash_styleB.fbx
+  artifactKey: Guid(6342f0e925eb4934c8a73edcc1836440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_B_backsplash_styleB.fbx using Guid(6342f0e925eb4934c8a73edcc1836440) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '371dfe350ccafb800f134142cbfd54a9') in 0.01513 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchentable_B.fbx
+  artifactKey: Guid(cee0a6a51a1b7734ea52685aae56df12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchentable_B.fbx using Guid(cee0a6a51a1b7734ea52685aae56df12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06e64264534386a2d03b61af4046d089') in 0.0155572 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchentable_B_decorated.fbx
+  artifactKey: Guid(cd4aa787993a8c14fa8baaf32c8ea919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchentable_B_decorated.fbx using Guid(cd4aa787993a8c14fa8baaf32c8ea919) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ca15a33b7b2e65a4235931e5bb4552c3') in 0.0160583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/pot_large.fbx
+  artifactKey: Guid(13ab90422a2300241b9428d9890de7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/pot_large.fbx using Guid(13ab90422a2300241b9428d9890de7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b7ea14d9abdd948645a3aa01634afee1') in 0.0181756 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_decorated.fbx
+  artifactKey: Guid(ac35eed53c5102046aa1b225b89917c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_decorated.fbx using Guid(ac35eed53c5102046aa1b225b89917c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e4b4618f1ee4f60c4c3a08579d56b522') in 0.0202651 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.417076 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_B.fbx
+  artifactKey: Guid(e2b9d82e50e00aa44a051217b0dcd0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_B.fbx using Guid(e2b9d82e50e00aa44a051217b0dcd0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3fd74cc84d962e9c41aac1197daa5286') in 0.0205612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_A_backsplash.fbx
+  artifactKey: Guid(682af3ed1a3c8dc4eba14994acfefb3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_A_backsplash.fbx using Guid(682af3ed1a3c8dc4eba14994acfefb3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94f3e0851e12a4c25e8ec549e24e120e') in 0.0141335 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_A_styleB.fbx
+  artifactKey: Guid(560be889277fc424aa030e02e65b58d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_A_styleB.fbx using Guid(560be889277fc424aa030e02e65b58d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '511b7063c83c08f62e1614ebac4736c3') in 0.0117141 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_A_medium.fbx
+  artifactKey: Guid(1ffc4032342f78f4b974e44ec927fd8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_A_medium.fbx using Guid(1ffc4032342f78f4b974e44ec927fd8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5ed3511c99d62af0ab87c46d54145e62') in 0.013211 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_B_small.fbx
+  artifactKey: Guid(3564b2ffb4e83ae4699669a6966e4965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_B_small.fbx using Guid(3564b2ffb4e83ae4699669a6966e4965) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1566458c3691e572df661ac06dc2c51a') in 0.0143408 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_A_small.fbx
+  artifactKey: Guid(03beae5dd3ef43b44b868e14c0e62016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_A_small.fbx using Guid(03beae5dd3ef43b44b868e14c0e62016) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1df289de023853f844cc1b5ab02f3b56') in 0.0115467 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_pizza_mushroom_slice.fbx
+  artifactKey: Guid(423e27f259ea69349ad71c138fa6ae1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_pizza_mushroom_slice.fbx using Guid(423e27f259ea69349ad71c138fa6ae1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b125b79cf6c377ab7f5ca66bbff1642b') in 0.0126284 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_burger_trash.fbx
+  artifactKey: Guid(1b7c1dd02b283d54cbf5f55c00b64ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_burger_trash.fbx using Guid(1b7c1dd02b283d54cbf5f55c00b64ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f259e5f353e3230578b4c072fee7e87') in 0.0117527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_burger_uncooked.fbx
+  artifactKey: Guid(20d8f012becc55a45bf05de763c95748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_burger_uncooked.fbx using Guid(20d8f012becc55a45bf05de763c95748) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb06c4604ea16197afc4685ed9352c03') in 0.0169608 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_vegetableburger_uncooked.fbx
+  artifactKey: Guid(26b55099538950244a6ad3a6cb0a6d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_vegetableburger_uncooked.fbx using Guid(26b55099538950244a6ad3a6cb0a6d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8a683be98d0012108bca72de94468d7') in 0.0120224 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_cheese_grated.fbx
+  artifactKey: Guid(da29e3e0fd0b0c54f8af6d0b4034ed72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_cheese_grated.fbx using Guid(da29e3e0fd0b0c54f8af6d0b4034ed72) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e6554af7ac1bc27b1a20f8565bc8a99e') in 0.0221449 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_cheese_chopped.fbx
+  artifactKey: Guid(8166166fc344ca245a53582c0afb310e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_cheese_chopped.fbx using Guid(8166166fc344ca245a53582c0afb310e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2e80a7f216af9a9a78395a3eb7f964ec') in 0.0129562 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_cheese.fbx
+  artifactKey: Guid(d4b23687ed0362947bbe6b485bcf8763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_cheese.fbx using Guid(d4b23687ed0362947bbe6b485bcf8763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '693a4fd28dd421799d12b99e8532d777') in 0.0240528 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_A_decorated_styleB.fbx
+  artifactKey: Guid(586c0b400dea4644589ea5e4947c8b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_straight_A_decorated_styleB.fbx using Guid(586c0b400dea4644589ea5e4947c8b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f1fa1c75aad30b4ad9d9c04d26c10ac') in 0.0143857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_pizza_cheese_slice.fbx
+  artifactKey: Guid(5ff0e8651a9c80c4288837acde4a3771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_pizza_cheese_slice.fbx using Guid(5ff0e8651a9c80c4288837acde4a3771) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd76062f986f94d08682efcc5d3724eb8') in 0.0146865 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/bowl.fbx
+  artifactKey: Guid(c8e460a25f6ced84c9c1ad8e2784abe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/bowl.fbx using Guid(c8e460a25f6ced84c9c1ad8e2784abe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e79b485d3d30819740ca7665921ee1f9') in 0.0153639 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/bowl_dirty.fbx
+  artifactKey: Guid(214995549212dab468cdd527c43ade9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/bowl_dirty.fbx using Guid(214995549212dab468cdd527c43ade9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1448ff4ddd502b88c2407c87097af33') in 0.0132314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_C_medium.fbx
+  artifactKey: Guid(8f212f0a5ded5fb4090c34495d13990a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_C_medium.fbx using Guid(8f212f0a5ded5fb4090c34495d13990a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9acfa90e5dfd541ba3271e0197a19bb7') in 0.0111711 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_pizza_mushroom_plated.fbx
+  artifactKey: Guid(7aab8811e8597234893c1fa638feed8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_pizza_mushroom_plated.fbx using Guid(7aab8811e8597234893c1fa638feed8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ca5ca4cadb437d980517c124bd297b0b') in 0.0124849 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.816338 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/chair_A.fbx
+  artifactKey: Guid(2094b0b883b45f7429716e7d9d696fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/chair_A.fbx using Guid(2094b0b883b45f7429716e7d9d696fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33be96914b57bf3eada71c34b1469b19') in 0.0117123 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/chair_stool.fbx
+  artifactKey: Guid(95046be1967c254428012f3cdbeb708a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/chair_stool.fbx using Guid(95046be1967c254428012f3cdbeb708a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9bee70b9537890128152e8f387d5e9e5') in 0.0136099 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040091 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate.fbx
+  artifactKey: Guid(4b5c6b0484bbec243a1f5f5e504134e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate.fbx using Guid(4b5c6b0484bbec243a1f5f5e504134e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4dc9bfbffbf1fc43c5ce3852bc38ae65') in 0.0110431 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_carrots.fbx
+  artifactKey: Guid(7dbe714dee3dbce4caae7feb3c27a5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_carrots.fbx using Guid(7dbe714dee3dbce4caae7feb3c27a5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c15da4660689c1e42f4d549349124e2d') in 0.0132863 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010875 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_cheese.fbx
+  artifactKey: Guid(3c6cc80d4dca3244f974bf3481a6a87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_cheese.fbx using Guid(3c6cc80d4dca3244f974bf3481a6a87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d3294f6d9c650bf5468b9392bd4fd64') in 0.0140143 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.142023 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_ham.fbx
+  artifactKey: Guid(eef6b0715d22ee6469f5596a61628efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_ham.fbx using Guid(eef6b0715d22ee6469f5596a61628efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4b7f77ab943c31273cf4fca67283333') in 0.015775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040354 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_lid.fbx
+  artifactKey: Guid(674f7a77c174b6e4ab1b13c9085dab4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_lid.fbx using Guid(674f7a77c174b6e4ab1b13c9085dab4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db805b6135a59c9f12969225f41f059d') in 0.0138749 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_pepperoni.fbx
+  artifactKey: Guid(edb975da4e91564489fb628184c9d27e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_pepperoni.fbx using Guid(edb975da4e91564489fb628184c9d27e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5380b7ffcc8ef6b39b2ec161ce2ab083') in 0.0142487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_tomatoes.fbx
+  artifactKey: Guid(6ebb3d2b6376b5c468cd317a321ff47e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/crate_tomatoes.fbx using Guid(6ebb3d2b6376b5c468cd317a321ff47e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b719a06d6c48e70695eb0f3f914ba1b3') in 0.0128307 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/cuttingboard.fbx
+  artifactKey: Guid(92e543c698c11354dae020242ef8d328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/cuttingboard.fbx using Guid(92e543c698c11354dae020242ef8d328) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '513718384d4de7c125e84e8da9285530') in 0.0128188 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/dishrack_plates.fbx
+  artifactKey: Guid(833884952b71a2349b77d927dd642678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/dishrack_plates.fbx using Guid(833884952b71a2349b77d927dd642678) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '82e950131823162e5a35289373611baa') in 0.015806 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/extractorhood.fbx
+  artifactKey: Guid(b0779d418c16e3e4bbb882ddae886fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/extractorhood.fbx using Guid(b0779d418c16e3e4bbb882ddae886fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb19e6b65d148dec970428b56670a3da') in 0.0111125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/floor_kitchen.fbx
+  artifactKey: Guid(b8a26b1e0a0014c41bba7ad19cf30929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/floor_kitchen.fbx using Guid(b8a26b1e0a0014c41bba7ad19cf30929) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c3d4c272eb20c181a60591fec4d1ef9') in 0.010652 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/floor_kitchen_small.fbx
+  artifactKey: Guid(7a1e39f36dce7df4498bff104c1aee09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/floor_kitchen_small.fbx using Guid(7a1e39f36dce7df4498bff104c1aee09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a3ab62ac442c196e7256173b439e50a') in 0.0142769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_burger.fbx
+  artifactKey: Guid(ab5085f4a55968d4186f5428e27bd442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_burger.fbx using Guid(ab5085f4a55968d4186f5428e27bd442) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0cd647608f4587dbbf01d0e3aa1d553d') in 0.0120509 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_bun_bottom.fbx
+  artifactKey: Guid(3ea2a1dddaed3a94ebff4674d693a62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_bun_bottom.fbx using Guid(3ea2a1dddaed3a94ebff4674d693a62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cdcc3809a489059157b649521c4aa506') in 0.0115805 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_bun_top.fbx
+  artifactKey: Guid(7c3b5407af03d074f94c6e7046830855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_bun_top.fbx using Guid(7c3b5407af03d074f94c6e7046830855) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd714eee78c3cec2b15c60b5f07d3ca4a') in 0.0108901 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_pepperoni_chopped.fbx
+  artifactKey: Guid(a3543e8fbf4a38546a16b1bfaff2f3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_pepperoni_chopped.fbx using Guid(a3543e8fbf4a38546a16b1bfaff2f3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '636b6774815d4e2e06eb3bd5b4a76238') in 0.0132641 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_potato_mashed.fbx
+  artifactKey: Guid(3f570e1eb40ae5246baf3d4dba4391ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_potato_mashed.fbx using Guid(3f570e1eb40ae5246baf3d4dba4391ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3284ad112c2fc28a2abe01457b764926') in 0.0131239 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_bun.fbx
+  artifactKey: Guid(d504b9f98c849f741a02f9d7fd29c791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_bun.fbx using Guid(d504b9f98c849f741a02f9d7fd29c791) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1e07ee91aefc668ac4230b73aea6f92') in 0.0135681 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_icecream_cone_strawberry.fbx
+  artifactKey: Guid(175473b3f8dff3f48a0fd51434e2b5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_icecream_cone_strawberry.fbx using Guid(175473b3f8dff3f48a0fd51434e2b5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f6fdffd53cdad5b344e3a2c673c0c42') in 0.0128671 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_icecream_cone_vanilla.fbx
+  artifactKey: Guid(88cac151bfaf0e346a4827f7029b40db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_icecream_cone_vanilla.fbx using Guid(88cac151bfaf0e346a4827f7029b40db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ae4f691affb36bec5d9cd71a36f24551') in 0.015003 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_steak.fbx
+  artifactKey: Guid(6b283e7494fe85a449b8b9717c081196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_steak.fbx using Guid(6b283e7494fe85a449b8b9717c081196) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6debd95291605f82f1deedf096759fc7') in 0.0124396 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043926 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_onion.fbx
+  artifactKey: Guid(6385abcf00ce128429bf5e6c8a80db82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_onion.fbx using Guid(6385abcf00ce128429bf5e6c8a80db82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '67c2cd3347110b55a2a3f49ab51db200') in 0.0135506 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.192399 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_tomato.fbx
+  artifactKey: Guid(ad8904e6de5742745a6fedc42fbfa649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_tomato.fbx using Guid(ad8904e6de5742745a6fedc42fbfa649) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f0cc5a3d6b2922ad93b91727200c3ab') in 0.0246483 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018126 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_tomato_slice.fbx
+  artifactKey: Guid(336e6cefe4ff3f041b4f4a4e8ac34ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_tomato_slice.fbx using Guid(336e6cefe4ff3f041b4f4a4e8ac34ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '17b0039a7815164356f4dc2d22d0ccfd') in 0.0116437 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.673953 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_stew.fbx
+  artifactKey: Guid(3b8347771fb9cd14bb8ef72ad482d7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_stew.fbx using Guid(3b8347771fb9cd14bb8ef72ad482d7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '050faff4638ba3a4a8a6814461cb0c52') in 0.0142689 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.091038 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/fridge_A.fbx
+  artifactKey: Guid(e9e496e1291107e4eb55c0d6576dc7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/fridge_A.fbx using Guid(e9e496e1291107e4eb55c0d6576dc7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c44a34e167f9468a004024a7417baaa1') in 0.036406 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047601 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/fridge_B.fbx
+  artifactKey: Guid(89448f8cdaaf7d344b7d260350f84861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/fridge_B.fbx using Guid(89448f8cdaaf7d344b7d260350f84861) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ddc46b05643c11eb99f793fa2ed9097a') in 0.0290272 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_bowl_cherries.fbx
+  artifactKey: Guid(9a3282e447f16b04d95608b4f123aab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_bowl_cherries.fbx using Guid(9a3282e447f16b04d95608b4f123aab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd896a6d756e3f0f194381e82c5c2833') in 0.0149375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_bowl_decorated_A.fbx
+  artifactKey: Guid(03e8d2451005e2d42aba981169cd0003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_bowl_decorated_A.fbx using Guid(03e8d2451005e2d42aba981169cd0003) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '29bd7bc9f06f83c9fca0e28c950b6b21') in 0.0163681 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_bowl_icecream_chocolate.fbx
+  artifactKey: Guid(1b37619f6dbf81547b21ddb3f1f1660f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_bowl_icecream_chocolate.fbx using Guid(1b37619f6dbf81547b21ddb3f1f1660f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee64aa33131953a0ee9bd0d1b0a9ca99') in 0.0142208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_bowl_icecream_vanilla.fbx
+  artifactKey: Guid(a445a1b8fe427954283fe1ca994a300f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_bowl_icecream_vanilla.fbx using Guid(a445a1b8fe427954283fe1ca994a300f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2ab1c88221f82646e4e34b1f59f00c8') in 0.0133303 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045906 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_bowl_waffles.fbx
+  artifactKey: Guid(21593e5c07a937e46b8c34a5650d284b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_bowl_waffles.fbx using Guid(21593e5c07a937e46b8c34a5650d284b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7146b4a26abca32d7dfa4c3e81050de1') in 0.0211258 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_cone.fbx
+  artifactKey: Guid(24a1525e6b52d304a81d3d680159f307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_cone.fbx using Guid(24a1525e6b52d304a81d3d680159f307) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c45b4a973717100136c01bbdeec5b79') in 0.014417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_container.fbx
+  artifactKey: Guid(89b6abefae3be1c499efecf08914e809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_container.fbx using Guid(89b6abefae3be1c499efecf08914e809) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '438a0e98c29903cd8cf564b93a51aa3b') in 0.0149833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_container_top.fbx
+  artifactKey: Guid(095dec65628ac2f489bb5b6fab259187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_container_top.fbx using Guid(095dec65628ac2f489bb5b6fab259187) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2250c076cd870a014549d9b260435812') in 0.0364 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.263779 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_cookiestick.fbx
+  artifactKey: Guid(cdd5905519f749f4ca4820eecd5fdd74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_cookiestick.fbx using Guid(cdd5905519f749f4ca4820eecd5fdd74) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68abd9b9891fa84da5c7fd0d72c44178') in 0.0171873 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024123 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_scoop.fbx
+  artifactKey: Guid(2d30eb5b990ea4145acf7057d7fd97dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_scoop.fbx using Guid(2d30eb5b990ea4145acf7057d7fd97dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0228efc15fab8d4221179643a8510296') in 0.0191326 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_softserve_icecream_vanilla.fbx
+  artifactKey: Guid(e360261553e85f0488214dabea74f41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/icecream_softserve_icecream_vanilla.fbx using Guid(e360261553e85f0488214dabea74f41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d9ed4fe3ceabaf15436a4da4ce1ee78') in 0.0162385 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007875 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_C_small.fbx
+  artifactKey: Guid(03ca1e25ca0c4c54583cfdb6dc91b5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_C_small.fbx using Guid(03ca1e25ca0c4c54583cfdb6dc91b5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9a69098081e215cf5dda4b790825f282') in 0.0138853 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_D_medium.fbx
+  artifactKey: Guid(be4ea6342fd18484d9211e38e0f44312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/jar_D_medium.fbx using Guid(be4ea6342fd18484d9211e38e0f44312) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f2ae29bbc7badad89367a2c59e1cba5') in 0.018283 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.322357 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/ketchup.fbx
+  artifactKey: Guid(006fd3f36ca991c448938dfd574e1ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/ketchup.fbx using Guid(006fd3f36ca991c448938dfd574e1ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '553ca44be514414ac2f09dd856772874') in 0.0218294 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencabinet_corner_half.fbx
+  artifactKey: Guid(3381723fb3fd41b4a8301220e6e5d64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencabinet_corner_half.fbx using Guid(3381723fb3fd41b4a8301220e6e5d64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7481f4ecb8b4b19e3223e209a089300a') in 0.0205386 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencabinet_corner_half_styleB.fbx
+  artifactKey: Guid(4ec8699e968b0774ab7318ddc637e01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencabinet_corner_half_styleB.fbx using Guid(4ec8699e968b0774ab7318ddc637e01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af5d0363cfdccc22bb7ffa8e63deca1b') in 0.021473 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencabinet_styleB.fbx
+  artifactKey: Guid(e914fb00f2d3dea4c8976768defc9ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencabinet_styleB.fbx using Guid(e914fb00f2d3dea4c8976768defc9ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45ecf2698a5d870ab12b62e50646f35a') in 0.0143039 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_innercorner_backsplash_styleB.fbx
+  artifactKey: Guid(b4f2d7d52dc601844a763d63dab61a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_innercorner_backsplash_styleB.fbx using Guid(b4f2d7d52dc601844a763d63dab61a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '773c38a2c449dfc1f3fc361df468623a') in 0.017613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036783 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_innercorner_styleB.fbx
+  artifactKey: Guid(f37ef2476d468724ba50d010eb846586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_innercorner_styleB.fbx using Guid(f37ef2476d468724ba50d010eb846586) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2a3d21dceffb06b94a108a56e3cd5068') in 0.0139447 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049221 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_outercorner_backsplash.fbx
+  artifactKey: Guid(9f4720e7154c2d74e8e50aed1a602e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_outercorner_backsplash.fbx using Guid(9f4720e7154c2d74e8e50aed1a602e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c27897ad8d28cf154e85db066ce10e41') in 0.0169689 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_sink.fbx
+  artifactKey: Guid(d8025db00c66b48419dc7197721217a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_sink.fbx using Guid(d8025db00c66b48419dc7197721217a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '47f17460a20bad5e46ea0d4e242601a0') in 0.0148309 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.139154 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_sink_backsplash.fbx
+  artifactKey: Guid(d1ef731ae5bf5934496140f3b28e9ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/kitchencounter_sink_backsplash.fbx using Guid(d1ef731ae5bf5934496140f3b28e9ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f6c8a341cd6bf162c21aa6b843903c0') in 0.0299142 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053739 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/lid_A.fbx
+  artifactKey: Guid(fdb77b76374834b4fabe3e01e7a10b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/lid_A.fbx using Guid(fdb77b76374834b4fabe3e01e7a10b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '609b3107a52c05d3a73495e28ac05d10') in 0.0171028 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/papertowel.fbx
+  artifactKey: Guid(9ef2d77ae686b1b448965c690b1e3599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/papertowel.fbx using Guid(9ef2d77ae686b1b448965c690b1e3599) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21ac1b9ac1647163a5be8ef55e8993b4') in 0.0126809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/pizza_oven.fbx
+  artifactKey: Guid(8fd09b4b7f8ed8b41b1c73970c00bd93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/pizza_oven.fbx using Guid(8fd09b4b7f8ed8b41b1c73970c00bd93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '618f41239399e808905fa84445213a11') in 0.0439638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.297910 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/rollingpin.fbx
+  artifactKey: Guid(6b465f096e59a9f4c989ad508d3a6715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/rollingpin.fbx using Guid(6b465f096e59a9f4c989ad508d3a6715) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd527c39a3d2a9336441a351b224f7aba') in 0.026453 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.770838 seconds.
+  path: Assets/Prefab/Customer.prefab
+  artifactKey: Guid(668807cd34d196440a78d43460a0b1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Customer.prefab using Guid(668807cd34d196440a78d43460a0b1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b521341db1430588af3d194b7a7cbc1') in 0.0151721 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.740 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.952 seconds
+Domain Reload Profiling: 1692ms
+	BeginReloadAssembly (216ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (19ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (57ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (448ms)
+		LoadAssemblies (343ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (201ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (177ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (953ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (762ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (133ms)
+			ProcessInitializeOnLoadAttributes (540ms)
+			ProcessInitializeOnLoadMethodAttributes (73ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6384 unused Assets / (4.9 MB). Loaded Objects now: 7336.
+Memory consumption went from 183.5 MB to 178.7 MB.
+Total: 11.839300 ms (FindLiveObjects: 0.710700 ms CreateObjectMapping: 0.859200 ms MarkObjects: 6.551600 ms  DeleteObjects: 3.716000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.686 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.975 seconds
+Domain Reload Profiling: 1661ms
+	BeginReloadAssembly (190ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (51ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (425ms)
+		LoadAssemblies (322ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (195ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (171ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (975ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (783ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (123ms)
+			ProcessInitializeOnLoadAttributes (575ms)
+			ProcessInitializeOnLoadMethodAttributes (70ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (4.9 MB). Loaded Objects now: 7338.
+Memory consumption went from 183.4 MB to 178.5 MB.
+Total: 12.007800 ms (FindLiveObjects: 0.743200 ms CreateObjectMapping: 1.107400 ms MarkObjects: 6.232800 ms  DeleteObjects: 3.922400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 43.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6376 unused Assets / (3.6 MB). Loaded Objects now: 7338.
+Memory consumption went from 183.6 MB to 180.0 MB.
+Total: 146.677200 ms (FindLiveObjects: 14.521300 ms CreateObjectMapping: 3.117100 ms MarkObjects: 73.390600 ms  DeleteObjects: 55.645300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.932 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.25 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.856 seconds
+Domain Reload Profiling: 1786ms
+	BeginReloadAssembly (394ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (134ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (425ms)
+		LoadAssemblies (392ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (191ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (167ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (856ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (643ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (472ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 1.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (4.9 MB). Loaded Objects now: 7340.
+Memory consumption went from 183.4 MB to 178.5 MB.
+Total: 11.186600 ms (FindLiveObjects: 0.725000 ms CreateObjectMapping: 0.981500 ms MarkObjects: 5.997300 ms  DeleteObjects: 3.481000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.637 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.862 seconds
+Domain Reload Profiling: 1500ms
+	BeginReloadAssembly (175ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (394ms)
+		LoadAssemblies (298ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (182ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (160ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (863ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (674ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (495ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (4.6 MB). Loaded Objects now: 7342.
+Memory consumption went from 183.4 MB to 178.8 MB.
+Total: 11.687400 ms (FindLiveObjects: 0.856200 ms CreateObjectMapping: 1.112300 ms MarkObjects: 6.358100 ms  DeleteObjects: 3.359100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.651 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.898 seconds
+Domain Reload Profiling: 1549ms
+	BeginReloadAssembly (180ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (401ms)
+		LoadAssemblies (305ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (187ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (166ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (899ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (711ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (115ms)
+			ProcessInitializeOnLoadAttributes (515ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (4.8 MB). Loaded Objects now: 7344.
+Memory consumption went from 183.3 MB to 178.5 MB.
+Total: 11.650400 ms (FindLiveObjects: 0.781700 ms CreateObjectMapping: 0.947700 ms MarkObjects: 6.363500 ms  DeleteObjects: 3.555500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.649 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.894 seconds
+Domain Reload Profiling: 1542ms
+	BeginReloadAssembly (180ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (400ms)
+		LoadAssemblies (305ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (183ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (163ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (894ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (710ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (116ms)
+			ProcessInitializeOnLoadAttributes (514ms)
+			ProcessInitializeOnLoadMethodAttributes (66ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 1.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (4.7 MB). Loaded Objects now: 7346.
+Memory consumption went from 183.4 MB to 178.7 MB.
+Total: 11.610200 ms (FindLiveObjects: 0.869300 ms CreateObjectMapping: 1.002900 ms MarkObjects: 6.252300 ms  DeleteObjects: 3.483700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 176.678482 seconds.
+  path: Assets/_Assets/Scripts/Customer.cs
+  artifactKey: Guid(9a2524a4f8d3b804da5be159cadac75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Scripts/Customer.cs using Guid(9a2524a4f8d3b804da5be159cadac75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5647d17aa45faad73faebe5c28fff136') in 0.0393688 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.644673 seconds.
+  path: Assets/Prefab/Customer.prefab
+  artifactKey: Guid(668807cd34d196440a78d43460a0b1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Customer.prefab using Guid(668807cd34d196440a78d43460a0b1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2a3a8c96823dc7b36e45a02471509a43') in 0.5121663 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Prepare
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6376 unused Assets / (4.7 MB). Loaded Objects now: 7487.
+Memory consumption went from 191.2 MB to 186.5 MB.
+Total: 16.334700 ms (FindLiveObjects: 0.818800 ms CreateObjectMapping: 0.952000 ms MarkObjects: 11.123000 ms  DeleteObjects: 3.438400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 39.439899 seconds.
+  path: Assets/_Assets/Scripts/Customer.cs
+  artifactKey: Guid(9a2524a4f8d3b804da5be159cadac75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Scripts/Customer.cs using Guid(9a2524a4f8d3b804da5be159cadac75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '434b44bbaae341229d5808d508a09783') in 0.0066046 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.709 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.383 seconds
+Domain Reload Profiling: 2091ms
+	BeginReloadAssembly (211ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (19ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (60ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (422ms)
+		LoadAssemblies (324ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (187ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (163ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1384ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1134ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (136ms)
+			ProcessInitializeOnLoadAttributes (823ms)
+			ProcessInitializeOnLoadMethodAttributes (147ms)
+			AfterProcessingInitializeOnLoad (19ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (36ms)
+Refreshing native plugins compatible for Editor in 3.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (4.0 MB). Loaded Objects now: 7368.
+Memory consumption went from 187.7 MB to 183.7 MB.
+Total: 15.257300 ms (FindLiveObjects: 1.109100 ms CreateObjectMapping: 0.986700 ms MarkObjects: 9.766300 ms  DeleteObjects: 3.392900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6376 unused Assets / (3.5 MB). Loaded Objects now: 7368.
+Memory consumption went from 187.7 MB to 184.2 MB.
+Total: 43.655100 ms (FindLiveObjects: 1.779600 ms CreateObjectMapping: 9.747500 ms MarkObjects: 27.338800 ms  DeleteObjects: 4.786300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.843 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 3.29 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.110 seconds
+Domain Reload Profiling: 3947ms
+	BeginReloadAssembly (439ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (91ms)
+	RebuildCommonClasses (85ms)
+	RebuildNativeTypeToScriptingClass (29ms)
+	initialDomainReloadingComplete (71ms)
+	LoadAllAssembliesAndSetupDomain (1211ms)
+		LoadAssemblies (881ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (570ms)
+			TypeCache.Refresh (23ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (506ms)
+			ResolveRequiredComponents (32ms)
+	FinalizeReload (2111ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1652ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (237ms)
+			ProcessInitializeOnLoadAttributes (1241ms)
+			ProcessInitializeOnLoadMethodAttributes (138ms)
+			AfterProcessingInitializeOnLoad (21ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (56ms)
+Refreshing native plugins compatible for Editor in 4.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (5.0 MB). Loaded Objects now: 7370.
+Memory consumption went from 187.5 MB to 182.6 MB.
+Total: 25.172800 ms (FindLiveObjects: 1.382000 ms CreateObjectMapping: 2.057600 ms MarkObjects: 15.441500 ms  DeleteObjects: 6.289100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.996 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.988 seconds
+Domain Reload Profiling: 1981ms
+	BeginReloadAssembly (458ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (24ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (105ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (424ms)
+		LoadAssemblies (479ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (175ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (154ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (988ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (795ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (116ms)
+			ProcessInitializeOnLoadAttributes (591ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (5.1 MB). Loaded Objects now: 7372.
+Memory consumption went from 187.5 MB to 182.5 MB.
+Total: 12.105200 ms (FindLiveObjects: 0.760800 ms CreateObjectMapping: 1.080500 ms MarkObjects: 6.476900 ms  DeleteObjects: 3.785000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 4.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6376 unused Assets / (3.6 MB). Loaded Objects now: 7372.
+Memory consumption went from 187.7 MB to 184.1 MB.
+Total: 22.451400 ms (FindLiveObjects: 2.342800 ms CreateObjectMapping: 1.105600 ms MarkObjects: 12.659900 ms  DeleteObjects: 6.340600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.909 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.842 seconds
+Domain Reload Profiling: 1751ms
+	BeginReloadAssembly (432ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (86ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (411ms)
+		LoadAssemblies (466ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (187ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (164ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (843ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (659ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (488ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 1.24 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (4.8 MB). Loaded Objects now: 7374.
+Memory consumption went from 187.5 MB to 182.7 MB.
+Total: 10.585200 ms (FindLiveObjects: 0.674100 ms CreateObjectMapping: 0.840800 ms MarkObjects: 5.866900 ms  DeleteObjects: 3.201600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.661 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.896 seconds
+Domain Reload Profiling: 1558ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (401ms)
+		LoadAssemblies (311ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (182ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (160ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (897ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (711ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (112ms)
+			ProcessInitializeOnLoadAttributes (514ms)
+			ProcessInitializeOnLoadMethodAttributes (69ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 1.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (4.7 MB). Loaded Objects now: 7376.
+Memory consumption went from 187.5 MB to 182.9 MB.
+Total: 11.330200 ms (FindLiveObjects: 0.761200 ms CreateObjectMapping: 0.847500 ms MarkObjects: 6.334600 ms  DeleteObjects: 3.385500 ms)
+
+Prepare: number of updated asset objects reloaded= 0

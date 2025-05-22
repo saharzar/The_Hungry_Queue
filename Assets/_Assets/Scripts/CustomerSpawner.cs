@@ -2,29 +2,29 @@ using UnityEngine;
 
 public class CustomerSpawner : MonoBehaviour
 {
-    public GameObject customerPrefab;      // Spawnlanacak müþteri prefab'ý
-    public Transform spawnPoint;           // Müþteri nerede spawn olacak
+    public GameObject customerPrefab;
+    public Transform spawnPoint;
 
-    public float minSpawnTime = 2f;        // Ýlk minimum spawn süresi
-    public float maxSpawnTime = 5f;        // Ýlk maksimum spawn süresi
+    public float minSpawnTime = 2f;
+    public float maxSpawnTime = 5f;
 
-    public float minLimit = 0.5f;          // Zamanla ne kadar hýzlý olabilir, alt sýnýr
-    public float difficultyIncreaseRate = 0.1f; // Her spawn sonrasý ne kadar hýzlanacak
+    public int minCustomersPerWave = 1; // minimum kaç müþteri gelsin
+    public int maxCustomersPerWave = 3; // maksimum kaç müþteri gelsin
 
     void Start()
     {
-        SpawnCustomer(); // Oyunun baþýnda ilk spawn
+        Invoke("SpawnCustomerWave", Random.Range(minSpawnTime, maxSpawnTime));
     }
 
-    void SpawnCustomer()
+    void SpawnCustomerWave()
     {
-        Instantiate(customerPrefab, spawnPoint.position, Quaternion.identity);
+        int customerCount = Random.Range(minCustomersPerWave, maxCustomersPerWave + 1); // kaç kiþi gelsin
+        for (int i = 0; i < customerCount; i++)
+        {
+            Vector3 spawnOffset = new Vector3(0, 0, i * 2f); // Z eksenine doðru kaydýrma
+            Instantiate(customerPrefab, spawnPoint.position + spawnOffset, Quaternion.identity);
+        }
 
-        // Spawn sürelerini düþürerek oyunu zorlaþtýr
-        minSpawnTime = Mathf.Max(minLimit, minSpawnTime - difficultyIncreaseRate);
-        maxSpawnTime = Mathf.Max(minLimit + 0.5f, maxSpawnTime - difficultyIncreaseRate);
-
-        // Yeni spawn zamanýný ayarla
-        Invoke("SpawnCustomer", Random.Range(minSpawnTime, maxSpawnTime));
+        Invoke("SpawnCustomerWave", Random.Range(minSpawnTime, maxSpawnTime));
     }
 }
