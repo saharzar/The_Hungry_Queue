@@ -3726,3 +3726,463 @@ Memory consumption went from 171.1 MB to 166.3 MB.
 Total: 12.376500 ms (FindLiveObjects: 0.721900 ms CreateObjectMapping: 1.296100 ms MarkObjects: 6.546500 ms  DeleteObjects: 3.810400 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 369.944418 seconds.
+  path: Assets/_Assets/Sounds/SFX/SFX_chop02.wav
+  artifactKey: Guid(9c6157275e190604d8136e7e497e941e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Sounds/SFX/SFX_chop02.wav using Guid(9c6157275e190604d8136e7e497e941e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f335691f953888399b56f2b833c3ce6') in 0.128702 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/_Assets/Sounds/SFX/SFX_warning01.wav
+  artifactKey: Guid(b90d8099bdbf09a40ab1163556d5b5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Sounds/SFX/SFX_warning01.wav using Guid(b90d8099bdbf09a40ab1163556d5b5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7dc596290d4927ce3fb666d8cf6aeae6') in 0.0063627 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/_Assets/Sounds/SFX/SFX_trash02.wav
+  artifactKey: Guid(6024ba1d53d005f48a96b3a9f6bacedd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Sounds/SFX/SFX_trash02.wav using Guid(6024ba1d53d005f48a96b3a9f6bacedd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'df6d894103ba009481cebfa909c378fc') in 0.0070858 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/_Assets/Sounds/SFX/SFX_footstep01_01.wav
+  artifactKey: Guid(078e15982fce2e147bf06c8a7682f28b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Sounds/SFX/SFX_footstep01_01.wav using Guid(078e15982fce2e147bf06c8a7682f28b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0ca1ad41e2306c7791dd8067e5025070') in 0.0054519 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/_Assets/Sounds/SFX/SFX_delivery_success02.wav
+  artifactKey: Guid(4b22bfbdbacfa0445bc9bbfbb0141085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Sounds/SFX/SFX_delivery_success02.wav using Guid(4b22bfbdbacfa0445bc9bbfbb0141085) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af9cb6c30aa4c01efc42ec67499934dc') in 0.0060717 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/_Assets/Sounds/SFX/SFX_object_pickup01.wav
+  artifactKey: Guid(668de61a04ca5914aa745f8712c62720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Sounds/SFX/SFX_object_pickup01.wav using Guid(668de61a04ca5914aa745f8712c62720) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6db0923ad70208eecb697a6099505960') in 0.0057335 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/_Assets/Sounds/SFX/SFX_object_drop02.wav
+  artifactKey: Guid(331b82ab2c0e2b74d805124d11372c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Sounds/SFX/SFX_object_drop02.wav using Guid(331b82ab2c0e2b74d805124d11372c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '64dd33c692f5d7b8f2b4173dfd067b06') in 0.0073315 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/_Assets/Sounds/SFX/SFX_trash01.wav
+  artifactKey: Guid(4b70ec0f0afb9ac4ea7dfea07aca4eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Sounds/SFX/SFX_trash01.wav using Guid(4b70ec0f0afb9ac4ea7dfea07aca4eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd2b84654c9ae532386b5cee9053b3dc') in 0.0054573 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/_Assets/Sounds/SFX/SFX_footstep02_01.wav
+  artifactKey: Guid(cc97c340134faa948bcaf20fea6429c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Sounds/SFX/SFX_footstep02_01.wav using Guid(cc97c340134faa948bcaf20fea6429c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dd3c1e5ac7a8a02b37f84c4d7590b6d1') in 0.0055666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1189.700730 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Models/characterLargeMale.fbx
+  artifactKey: Guid(ccaf23f3b4d4a0b44a2a4a675e6d5de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Models/characterLargeMale.fbx using Guid(ccaf23f3b4d4a0b44a2a4a675e6d5de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '07f015bc8eba52ac9102e7c0314dbe02') in 0.4816869 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 127
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.688637 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/Animals/tailB.fbx
+  artifactKey: Guid(d2b86b7194d73eb478876c0ce8bebdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/Animals/tailB.fbx using Guid(d2b86b7194d73eb478876c0ce8bebdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '553cb02a7477d1cdea8e3b74727ca442') in 0.0290435 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001831 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/sword.fbx
+  artifactKey: Guid(e17db19622f270d49a2c2034c626aaa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/sword.fbx using Guid(e17db19622f270d49a2c2034c626aaa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03b3b287db141868a86f988fbdcfccf2') in 0.0384341 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/Animals/earSingle.fbx
+  artifactKey: Guid(fb55d24f78108414b9ac78af8352bdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/Animals/earSingle.fbx using Guid(fb55d24f78108414b9ac78af8352bdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08625a76969cd96aacffc4000bd3df23') in 0.0247364 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/rifle.fbx
+  artifactKey: Guid(fd7f535977e69d540a832fb6b5e13732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/rifle.fbx using Guid(fd7f535977e69d540a832fb6b5e13732) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72e3c976b9f7ea0a4762f0170d3c3e01') in 0.0373473 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.177586 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/pitchfork.fbx
+  artifactKey: Guid(0a94104d863c16442820b662c2f41404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/pitchfork.fbx using Guid(0a94104d863c16442820b662c2f41404) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f4accf9dc70d38a2467a888ad50edc7') in 0.0315969 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.692728 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/pan_A.fbx
+  artifactKey: Guid(d80804fcb8cb279409596187313b4c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/pan_A.fbx using Guid(d80804fcb8cb279409596187313b4c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec494cf466469027a5683b98eac83a51') in 0.0209123 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018240 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/Animals/mouthB.fbx
+  artifactKey: Guid(722e95379518cbf4db097b8a0d7178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/Animals/mouthB.fbx using Guid(722e95379518cbf4db097b8a0d7178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2b84572ddfe84dd93ac0dbe7a649b705') in 0.0207464 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107520 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/Animals/mouthA.fbx
+  artifactKey: Guid(99026ee918a6d0f4688c5e9bb39bebcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/Animals/mouthA.fbx using Guid(99026ee918a6d0f4688c5e9bb39bebcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe8e945a1798979a7c89b46a570821c8') in 0.0207403 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/militaryShoulderL.fbx
+  artifactKey: Guid(88c5e798d37675a459e440e425aecebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/militaryShoulderL.fbx using Guid(88c5e798d37675a459e440e425aecebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1238a2f77bb245ca13ef4e6d08c6a8b') in 0.0255576 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/militaryHelmet.fbx
+  artifactKey: Guid(adaac28358a871341bf19a0645fa90de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/militaryHelmet.fbx using Guid(adaac28358a871341bf19a0645fa90de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4ac0488a9bd98cd9b8841a45c1c4d16') in 0.0581632 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.696139 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/astroGun.fbx
+  artifactKey: Guid(fbfeeb0eac713d24f908fbcc09c015f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/astroGun.fbx using Guid(fbfeeb0eac713d24f908fbcc09c015f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd4f7f5d2713db78dd35de2ddf8b3e23') in 0.0348191 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/beard.fbx
+  artifactKey: Guid(35403b881139fdd44a2182feee3a230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/beard.fbx using Guid(35403b881139fdd44a2182feee3a230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a33b3c94c345f7762698307ea7acfab6') in 0.0224853 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/astroHelmet.fbx
+  artifactKey: Guid(37db93fbefa42a0498e65b1d65dcda12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/astroHelmet.fbx using Guid(37db93fbefa42a0498e65b1d65dcda12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dd8ec07b566690d94dae3c693095c22f') in 0.0621206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.658093 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/Animals/earsB.fbx
+  artifactKey: Guid(55d6ed3c9956d0d41946926ddf317059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/Animals/earsB.fbx using Guid(55d6ed3c9956d0d41946926ddf317059) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e98fa294295c1ea4e2ef5fe0ff1938f') in 0.0193361 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/Animals/earsD.fbx
+  artifactKey: Guid(b60467a1f35efc44bbb8ea646e892409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/Animals/earsD.fbx using Guid(b60467a1f35efc44bbb8ea646e892409) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dae0df82192121db04e698694aee6a01') in 0.0200487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/fantasyArmguard.fbx
+  artifactKey: Guid(94e6a8404038be242881d372b37dd331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/fantasyArmguard.fbx using Guid(94e6a8404038be242881d372b37dd331) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '67649f9c42d1941a069d65865026e4fa') in 0.0353422 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/fantasyShoulderR.fbx
+  artifactKey: Guid(f08f5cc70e406f34583cf89dcd6015ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/fantasyShoulderR.fbx using Guid(f08f5cc70e406f34583cf89dcd6015ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ac7252557ad96dbd89e245a8f5d81b3b') in 0.0356085 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/farmerCap.fbx
+  artifactKey: Guid(8aae2dca65669b0408277fde3c4695fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/farmerCap.fbx using Guid(8aae2dca65669b0408277fde3c4695fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0d93f6c1c290440ed29594c8e474ea6') in 0.0403365 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/Animals/earsC.fbx
+  artifactKey: Guid(ea55193388f76b04a91bc8ff577c3b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/Animals/earsC.fbx using Guid(ea55193388f76b04a91bc8ff577c3b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '052582464448116a519f02c8085917cb') in 0.0200697 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.249096 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_dough_base.fbx
+  artifactKey: Guid(c32ae4a99d49f0f42bb71a5455831650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_dough_base.fbx using Guid(c32ae4a99d49f0f42bb71a5455831650) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '32ca753d961399f14a00657a1a8c6b0a') in 0.0196923 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_lettuce.fbx
+  artifactKey: Guid(ea7fa1ff3d21a3e4a97e51040b5fcab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_lettuce.fbx using Guid(ea7fa1ff3d21a3e4a97e51040b5fcab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4db9dc5cb9d2f404930ca29790a30945') in 0.0148349 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_lettuce_chopped.fbx
+  artifactKey: Guid(88b97e174e2b0684d9b5ad7badd4eff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_lettuce_chopped.fbx using Guid(88b97e174e2b0684d9b5ad7badd4eff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd3a173a131444dd7fdbf85103c2a3405') in 0.0126398 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_ham_cooked.fbx
+  artifactKey: Guid(607a7aa4538f5854695e65212ec80a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Models/food_ingredient_ham_cooked.fbx using Guid(607a7aa4538f5854695e65212ec80a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '07e4ead321541753c618ec1f17d401bd') in 0.0125458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.312746 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/glassesRound.fbx
+  artifactKey: Guid(c02965ea841b8c84f9ee0c0bd416ff47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/glassesRound.fbx using Guid(c02965ea841b8c84f9ee0c0bd416ff47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c7dcd7d7ad4baed372f00231b0c2d6a2') in 0.022252 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/hairTail.fbx
+  artifactKey: Guid(9eb7024b470ba6c43be36d52999ef6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/hairTail.fbx using Guid(9eb7024b470ba6c43be36d52999ef6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3406d816910a6cb69816f64ab71ddcaa') in 0.0234924 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/hairBobcut.fbx
+  artifactKey: Guid(0bee631e48893704690cd7eb1e0236cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/hairBobcut.fbx using Guid(0bee631e48893704690cd7eb1e0236cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2202e67642a4004a33bebb99051bf9eb') in 0.0229725 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.164644 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Accessories/militaryBackpack.fbx
+  artifactKey: Guid(84838e88df5880845b7cf519738e11a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Accessories/militaryBackpack.fbx using Guid(84838e88df5880845b7cf519738e11a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dde6d4f473522e82010bf937986cbd89') in 0.0361189 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.479995 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Preview/models.png
+  artifactKey: Guid(8b33ab655028b4f4d83491851220a612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Preview/models.png using Guid(8b33ab655028b4f4d83491851220a612) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'beb6ab7e467cbdaedc134ba3f82d9658') in 0.018964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.213378 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/alienB.png
+  artifactKey: Guid(9f8a73437269a6a42b793bd608465182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/alienB.png using Guid(9f8a73437269a6a42b793bd608465182) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8950263584be4ca58060a465945a49e') in 0.0070583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/businessMaleA.png
+  artifactKey: Guid(4a0111e5d0a5c0a41900fba3ff056b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/businessMaleA.png using Guid(4a0111e5d0a5c0a41900fba3ff056b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4457f30945152d9a8740a51eb5152ff6') in 0.0059175 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/casualFemaleA.png
+  artifactKey: Guid(21423b1f227fb184a91ab84c53bdd5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/casualFemaleA.png using Guid(21423b1f227fb184a91ab84c53bdd5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c6e3a8ab807a2ebb487c26e5465effa') in 0.0061728 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/casualMaleB.png
+  artifactKey: Guid(2cec75e92a9e8a4418b2fecebc5d734d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/casualMaleB.png using Guid(2cec75e92a9e8a4418b2fecebc5d734d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '185ffa89c014656fa3ce8158ff2487be') in 0.0058361 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/militaryFemaleA.png
+  artifactKey: Guid(b8322df6b901a664f8df1810950ceb45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/militaryFemaleA.png using Guid(b8322df6b901a664f8df1810950ceb45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a3dc0d102d87154286defe23121fef08') in 0.0071057 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/casualFemaleB.png
+  artifactKey: Guid(f7088b40667c9ea44b7aa5227a9783ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/casualFemaleB.png using Guid(f7088b40667c9ea44b7aa5227a9783ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68279a5e3f9d23956301dc10ae9c0be4') in 0.0072577 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/astroFemaleB.png
+  artifactKey: Guid(48721edeb49a4dc42854c21d35d02192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/astroFemaleB.png using Guid(48721edeb49a4dc42854c21d35d02192) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '19783e652a858daba32c389fa01b145c') in 0.0067161 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/athleteMaleRed.png
+  artifactKey: Guid(faa0176aba05a0f40898912225e536c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/athleteMaleRed.png using Guid(faa0176aba05a0f40898912225e536c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de557456aa5a10579ab7cc7666168112') in 0.006227 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/cyborg.png
+  artifactKey: Guid(9ec228258ebdc5d46970211abced6f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/cyborg.png using Guid(9ec228258ebdc5d46970211abced6f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '97016b42af2ea8fd60c54d65c65a25db') in 0.0060513 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/astroMaleB.png
+  artifactKey: Guid(b9df64ea0bc70f14b83c4087e6c95372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/astroMaleB.png using Guid(b9df64ea0bc70f14b83c4087e6c95372) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d828cefde15e910535791b5ae92829d') in 0.0069666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/athleteFemaleRed.png
+  artifactKey: Guid(f01ca3d00e27fe349ae5fb5b01e8194c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/athleteFemaleRed.png using Guid(f01ca3d00e27fe349ae5fb5b01e8194c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e39c2282841f85ba61c22df62430cd12') in 0.0065811 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/racerBlueMale.png
+  artifactKey: Guid(9fc6e8fb04d531d49934ce029ce5f0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/racerBlueMale.png using Guid(9fc6e8fb04d531d49934ce029ce5f0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c4c20f00c2481b8816bff244ef2953f8') in 0.0058253 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.369412 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalB.png
+  artifactKey: Guid(d50b4ab35755b184f83b1b9a5aa1fd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalB.png using Guid(d50b4ab35755b184f83b1b9a5aa1fd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '85903e25cabcf4ef548bd4e162f6cca4') in 0.0082554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalBaseD.png
+  artifactKey: Guid(7b694db7144f410468f677a9abfb27fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalBaseD.png using Guid(7b694db7144f410468f677a9abfb27fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27b1ec50ce9a0837c082f529bddc180d') in 0.0066445 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalBaseH.png
+  artifactKey: Guid(cf326dfffa8cdbc4daf609cf6f92a4bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalBaseH.png using Guid(cf326dfffa8cdbc4daf609cf6f92a4bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f7f2d15e3ba5285165939fd673169f4') in 0.0056819 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalI.png
+  artifactKey: Guid(146ea3d8ecd20bd4fbdd61922e55fa56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalI.png using Guid(146ea3d8ecd20bd4fbdd61922e55fa56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '83d75f7e92a26e6d1b2dbe77372bdf84') in 0.0056294 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalC.png
+  artifactKey: Guid(1c3a04c4337553e43b108bf4babbc95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalC.png using Guid(1c3a04c4337553e43b108bf4babbc95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49695f25b7b7fadc0d263b74558189c3') in 0.0075463 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalBaseE.png
+  artifactKey: Guid(7a8bcc3b1f1783c478f601195aedac45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalBaseE.png using Guid(7a8bcc3b1f1783c478f601195aedac45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e7a5fea374faa1972eea836495b30333') in 0.0053026 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalD.png
+  artifactKey: Guid(d8e1a25da606ddc42b7f34968ac04fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Animated Characters Bundle/Skins/Animals/animalD.png using Guid(d8e1a25da606ddc42b7f34968ac04fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '44f4d35f6581c897a711935e78c294bd') in 0.0067082 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
