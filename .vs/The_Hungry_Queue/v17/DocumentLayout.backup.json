@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\mehme\\documents\\github\\the_hungry_queue\\assets\\clientspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\clientspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C785CFBF-385F-DF0E-C06A-74AF42E6F6A8}|Assembly-CSharp.csproj|c:\\users\\mehme\\documents\\github\\the_hungry_queue\\assets\\_assets\\scripts\\customerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C785CFBF-385F-DF0E-C06A-74AF42E6F6A8}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\customerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C785CFBF-385F-DF0E-C06A-74AF42E6F6A8}|Assembly-CSharp.csproj|c:\\users\\mehme\\documents\\github\\the_hungry_queue\\assets\\_assets\\scripts\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C785CFBF-385F-DF0E-C06A-74AF42E6F6A8}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\Client.cs",
-              "RelativeDocumentMoniker": "Assets\\Client.cs",
-              "ToolTip": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\Client.cs",
-              "RelativeToolTip": "Assets\\Client.cs",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\_Assets\\Scripts\\Customer.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Customer.cs",
+              "ToolTip": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\_Assets\\Scripts\\Customer.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T16:34:22.428Z",
+              "WhenOpened": "2025-05-22T17:01:05.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClientSpawn.cs",
-              "DocumentMoniker": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\ClientSpawn.cs",
-              "RelativeDocumentMoniker": "Assets\\ClientSpawn.cs",
-              "ToolTip": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\ClientSpawn.cs",
-              "RelativeToolTip": "Assets\\ClientSpawn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Title": "CustomerSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\_Assets\\Scripts\\CustomerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\CustomerSpawner.cs",
+              "ToolTip": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\_Assets\\Scripts\\CustomerSpawner.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\CustomerSpawner.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T16:40:24.925Z",
+              "WhenOpened": "2025-05-22T16:53:24.899Z",
               "EditorCaption": ""
             }
           ]
