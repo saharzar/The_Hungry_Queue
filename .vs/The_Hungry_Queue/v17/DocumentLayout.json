@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C785CFBF-385F-DF0E-C06A-74AF42E6F6A8}|Assembly-CSharp.csproj|c:\\users\\mehme\\documents\\github\\the_hungry_queue\\assets\\_assets\\scripts\\customerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C785CFBF-385F-DF0E-C06A-74AF42E6F6A8}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\customerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C785CFBF-385F-DF0E-C06A-74AF42E6F6A8}|Assembly-CSharp.csproj|C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\assets\\_assets\\scripts\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C785CFBF-385F-DF0E-C06A-74AF42E6F6A8}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C785CFBF-385F-DF0E-C06A-74AF42E6F6A8}|Assembly-CSharp.csproj|c:\\users\\mehme\\documents\\github\\the_hungry_queue\\assets\\_assets\\scripts\\customerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C785CFBF-385F-DF0E-C06A-74AF42E6F6A8}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\customerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\_Assets\\Scripts\\Customer.cs",
               "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Customer.cs",
               "ToolTip": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\_Assets\\Scripts\\Customer.cs",
               "RelativeToolTip": "Assets\\_Assets\\Scripts\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T17:16:48.792Z",
               "IsPinned": true,
@@ -36,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CustomerSpawner.cs",
               "DocumentMoniker": "C:\\Users\\mehme\\Documents\\GitHub\\The_Hungry_Queue\\Assets\\_Assets\\Scripts\\CustomerSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\CustomerSpawner.cs",
